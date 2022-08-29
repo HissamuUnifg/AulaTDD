@@ -7,11 +7,11 @@ Roteiro de Aula TDD
 
  - Para o início da aula, apagar os métodos:
    - ReajusteService.concederReajuste(Funcionario funcionario)
-   - ReajusteServiceTst.testes de período de tempo (linhas 42 em diante);
+   - ReajusteServiceTst.testesDePeríodoDeTempo (linhas 42 em diante);
 
  - Após isso apresentar o cenário aos alunos que novos requisitos foram adicionados ao projeto, fazendo com que novas implementações fossem necessárias;
 
- - Revisar o padrão de codificação IMPLEMENTAÇÃO -> TESTE e o padrão proposto pelo TDD;
+ - Revisar o padrão de IMPLEMENTAÇÃO -> TESTE e o padrão proposto pelo TDD;
 
  - iniciar a implementaçao do teste de reajuste para funcionários com mais de 5 anos e menos de 5 anos;
 
